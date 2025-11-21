@@ -1,2 +1,2 @@
 ARG VERSION
-FROM alamlinux:${VERSION:-9}
+FROM almalinux:${VERSION:-9}
