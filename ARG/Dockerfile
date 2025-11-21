@@ -1,0 +1,2 @@
+ARG VERSION
+FROM alamlinux:${VERSION:-9}
